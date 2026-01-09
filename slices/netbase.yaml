@@ -1,5 +1,7 @@
 package: netbase
 
+# hello world
+
 essential:
   - netbase_copyright
 

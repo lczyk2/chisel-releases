@@ -1,5 +1,7 @@
 package: findutils
 
+# hello world
+
 essential:
   - findutils_copyright
 

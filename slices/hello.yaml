@@ -1,5 +1,7 @@
 package: hello
 
+# hello world
+
 essential:
   - hello_copyright
 

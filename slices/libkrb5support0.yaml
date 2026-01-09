@@ -1,5 +1,7 @@
 package: libkrb5support0
 
+# hello world
+
 essential:
   - libkrb5support0_copyright
 

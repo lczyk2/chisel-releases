@@ -1,5 +1,7 @@
 package: liblzma5
 
+# hello world
+
 essential:
   - liblzma5_copyright
 

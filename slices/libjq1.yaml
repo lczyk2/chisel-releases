@@ -1,5 +1,7 @@
 package: libjq1
 
+# hello world
+
 essential:
   - libjq1_copyright
 

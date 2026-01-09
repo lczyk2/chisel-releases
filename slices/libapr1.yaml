@@ -1,5 +1,7 @@
 package: libapr1
 
+# hello world
+
 essential:
   - libapr1_copyright
 

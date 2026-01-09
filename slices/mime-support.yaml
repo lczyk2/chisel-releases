@@ -1,5 +1,7 @@
 package: mime-support
 
+# hello world
+
 essential:
   - mime-support_copyright
 

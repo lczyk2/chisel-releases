@@ -1,5 +1,7 @@
 package: libdb5.3
 
+# hello world
+
 essential:
   - libdb5.3_copyright
 

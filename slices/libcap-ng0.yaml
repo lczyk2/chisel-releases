@@ -1,5 +1,7 @@
 package: libcap-ng0
 
+# hello world
+
 essential:
   - libcap-ng0_copyright
 

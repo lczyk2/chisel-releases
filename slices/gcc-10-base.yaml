@@ -1,5 +1,7 @@
 package: gcc-10-base
 
+# hello world
+
 essential:
   - gcc-10-base_copyright
 

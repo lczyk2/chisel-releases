@@ -1,5 +1,7 @@
 package: libpcre3
 
+# hello world
+
 essential:
   - libpcre3_copyright
 
