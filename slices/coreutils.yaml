@@ -1,5 +1,7 @@
 package: coreutils
 
+# hello world
+
 essential:
   - coreutils_copyright
 
